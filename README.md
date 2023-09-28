@@ -24,13 +24,15 @@ The API should be responsible for managing the "Users" resource. The following a
 
 2.3. Update All User Fields: The API should allow for the complete update of user data.
 
-2.4. Delete User: The API should support deliting user records.
+2.4. Delete User: The API should support deleting user records.
 
-2.5. Search for Users by Birth Date Range: The API should enable searching for users based on a birth date range. It should validate that the "From" date is less than the "To" date and return a list of user objects that fall within the specified range.
+2.5. Search for Users by Birth Date Range: The API should enable searching for users based on a birth date range. It should validate that the "From" date is less than the "To" date and return a list of user objects within the specified range.
 
 ## Test Coverage
 The project includes comprehensive testing to ensure its functionality and reliability. The test coverage for the project is shown in the image below:
-![image](https://github.com/VovaMitsura/clear-solutions/assets/95585344/b1c24d87-3333-4b97-b56e-fbf7acd77531)
+
+![image](https://github.com/VovaMitsura/clear-solutions/assets/95585344/b8732b76-15d1-4086-81cc-badcb11b03eb)
+
 
 ### How to Run manually
 
